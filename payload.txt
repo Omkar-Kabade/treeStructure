@@ -1,0 +1,6 @@
+Endpoint = addPerson/
+payload = {
+    "name":"Myra",
+    "parent":1, #optional
+    "role":"CTO"
+}
